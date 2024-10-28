@@ -11,4 +11,5 @@ Feel free to reach out to me via email for inquiries.
 
 - Photon school (for Masters and PhDs), organized by Helmholtz Zentrum Berlin
 - Neutron school (for Masters, PhDs and Postdocs), organized by Forschungzentrum Jülich
-- DAAR RISE Weltweit (for German Bachelor students), organized by DAAD
+- Erasmus + (for European undergrads and Masters), usually organized by own uni
+- DAAR RISE Weltweit (for Bachelor students at German unis), organized by DAAD

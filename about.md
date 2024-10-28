@@ -12,4 +12,4 @@ Below, you can find a list of summer schools and funding opportunities for gaini
 - Photon school (for Masters and PhDs), organized by Helmholtz Zentrum Berlin
 - Neutron school (for Masters, PhDs and Postdocs), organized by Forschungzentrum Jülich
 - Erasmus + (for European undergrads and Masters), usually self organized but parter institutions provided by own uni
-- DAAR RISE Weltweit (for Bachelor students at German unis), organized by DAAD
+- DAAD RISE Weltweit (for Bachelor students at German unis), organized by DAAD

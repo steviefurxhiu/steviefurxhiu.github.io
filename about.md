@@ -3,12 +3,12 @@ layout: page
 title: About
 ---
 
-I will try to post scientific content or anecdotes about science once a week. Topics range from hard sciences to arts and philosophy. 
+I will try to post scientific content or anecdotes about science once a week. 
+Topics range from hard sciences to arts and philosophy. 
 Feel free to reach out to me via email for inquiries.
 
-### Opportunities for students
+### Scientific opportunities for students and researchers
 
-Here you’ll find posts about:
-- Recent scientific discoveries
-- Interesting anecdotes from the world of science
-- Insights into various scientific fields
+- Photon school (for Masters and PhDs), organized by Helmholtz Zentrum Berlin
+- Neutron school (for Masters, PhDs and Postdocs), organized by Forschungzentrum Jülich
+- DAAR RISE Weltweit (for German Bachelor students), organized by DAAD

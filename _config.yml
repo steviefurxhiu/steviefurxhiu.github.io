@@ -18,7 +18,7 @@ baseurl: ''
 title: 'My blog'
 description: 'This is my new blog'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=136"
+logo: "https://1.gravatar.com/userimage/244506044/bdb4df8bce95e1f8367badbcf87f5c32?size=256"
 
 # Pagination
 paginate: 5

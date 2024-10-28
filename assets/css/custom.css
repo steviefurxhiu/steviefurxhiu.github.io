@@ -1,0 +1,20 @@
+/* Set background to white and text to dark gray */
+body {
+  background-color: #ffffff; /* White background */
+  color: #333333; /* Dark text */
+}
+
+/* Customize header and footer to light gray */
+header, footer {
+  background-color: #f9f9f9; /* Light gray background for header/footer */
+}
+
+/* Set links to a readable blue */
+a {
+  color: #0056b3;
+}
+
+/* Optional: Customize navigation and other elements as needed */
+nav, .sidebar {
+  background-color: #f5f5f5; /* Light gray for sidebars and navigation */
+}

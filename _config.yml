@@ -15,10 +15,10 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'My blog'
+title: 'steviefurxhiu'
 description: 'This is my new blog'
 permalink: pretty
-logo: "https://1.gravatar.com/userimage/244506044/ff8de803bc671bcfe381da14e0e7abfe?size=256"
+logo: "https://2.gravatar.com/userimage/244506044/f8598083a7af213df169cfc6e82ce015?size=256"
 
 # Pagination
 paginate: 5
@@ -29,5 +29,4 @@ collections:
   posts:
     title: Blog
     output: true
-    description: "Have you ever wondered why the Rosetta Stone played a crucial role for deciphering hieroglyphs? This artifact, with engravings in Ancient Egyptian and Greek, paved the way to understanding a lost ancient culture. I think there is an analogy between this story and the transmission and development of science. Investigating new natural phenomena feels like discovering the Rosetta Stone and deciphering hieroglyphs again. A similar mechanism was at play when Watson and Crick uncovered the structure of DNA and when Einstein established the foundations of relativity.
-Active scientific pursuit opens the door to uncovering new Rosetta Stones—fueling curiosity and the desire to uncover the hidden world. I hope to contribute to this project by posting blogs on various scientific topics, which I hope will serve as little torches for navigating the unknown. Feel free to explore more! :)"
+    description: "Hi"

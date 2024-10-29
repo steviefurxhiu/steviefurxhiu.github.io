@@ -1,10 +1,10 @@
-// Colours
-$bodyColour: #4A90E2;
-$headingColour: darken($bodyColour, 5%);
-$linkColour: #5B5BFF;
-$hoverColour: darken($linkColour, 10%);
-$captionColour: lighten($headingColour, 40%);
-$white: #fff;
+// Colors
+$bodyColour: #4A90E2; // Calm blue for body text
+$headingColour: darken($bodyColour, 5%); // Slightly darker shade for headings
+$linkColour: #5B5BFF; // Link color (keeping original)
+$hoverColour: darken($linkColour, 10%); // Darker link color for hover state
+$captionColour: lighten($headingColour, 40%); // Lighter caption color
+$white: #fff; // Pure white
 
-$backgroundColour: #f9f9f9;
-$codeBackgroundColour: darken($backgroundColour, 5%);
+$backgroundColour: #f9f9f9; // Soft white for background
+$codeBackgroundColour: darken($backgroundColour, 5%); // Slightly darker background for code

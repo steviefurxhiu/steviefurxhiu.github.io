@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
+title: About me
 ---
 
-Welcome to my blog, where I will post scientific content and anecdotes once a week. Topics will range from hard sciences to arts and philosophy. Feel free to reach out to me via email for inquiries.
+Welcome to my blog. I will try to post scientific content or anecdotes once a week. Topics will range from hard sciences to arts and philosophy. Feel free to reach out to me via email for inquiries.
 
 ### Scientific opportunities for students and researchers
 

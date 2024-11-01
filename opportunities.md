@@ -3,7 +3,7 @@ layout: page
 title: Opportunities
 ---
 
-Below, you can find a list of internships, summer schools and funding opportunities for gaining hands-on research experience in the fields of STEM (mainly physical sciences). Most of them occur yearly and they provide full stipends and travel costs for conducting research at their facilities or abroad. They are mainly aimed at university students.
+Below, you can find a list of internships, summer schools and funding opportunities for gaining hands-on research experience in the fields of STEM (mainly physical sciences). Most of them occur yearly and they provide full stipends and travel costs for conducting research at their facilities or abroad. It is mainly aimed at university students.
 
 #### Research internships (fully or partially funded)
 

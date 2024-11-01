@@ -7,7 +7,7 @@ Below, you can find a list of internships, summer schools and funding opportunit
 
 #### Research internships (fully or partially funded)
 
-- [Erasmus + (for European undergrads, Masters and PhDs), usually self-organized or from university partner institutions]((https://erasmus-plus.ec.europa.eu))  
+- [Erasmus + (for European undergrads, Masters and PhDs), usually self-organized or from university partner institutions](https://erasmus-plus.ec.europa.eu/)  
 - [DAAD RISE Weltweit (for Bachelor students at German unis)](https://www.daad.de/rise/en/rise-worldwide/about-the-programm/)
 - [DAAD RISE Germany (for undergrad students from USA, UK and Ireland)](https://www.daad.de/rise/en/rise-germany/about-the-program/)
 - [IAESTE (for university students worldwide)](https://iaeste.org/about)

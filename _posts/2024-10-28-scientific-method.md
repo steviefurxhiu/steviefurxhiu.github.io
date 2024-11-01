@@ -14,5 +14,6 @@ Wikipedia defines the scientific method as: ["... an empirical method for acquir
  
 Thus, the scientific method can be expressed as: a means of inducing and/or deducing an explanation through empirical evidence, where the communication and transmittance of ideas and knowledge are essential for fact-checking and further advancements on the established works. Another simpler way of wording it is: to derive a theory from experimental evidence and open-source it to the world for proving or disproving your claim. The Italian theoretical physicist Carlo Rovelli further says: "Science is not about certainty. Science is about finding the most reliable way of thinking at the present level of knowledge. ... In fact, it's the lack of certainty that grounds it." While this method involves concluding some things with reasonable certainty, it is important to note the importance of humility to remain open to new evidence and ideas.    
 
-
+Most of the information in this blog is based on the book "_Thinking about Science, Good Science, Bad Science, and How to Make It Better_" by Ferric C. Fang and Arturo Casadevall.   
+In my next post I will try to discuss the topic of cheating in science and what can be done to detect and circumvent such scenarios.       
 

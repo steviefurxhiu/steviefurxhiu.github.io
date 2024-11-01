@@ -30,9 +30,3 @@ collections:
     title: Blog
     output: true
     description: 'We must not believe those, who today, with philosophical bearing and deliberative tone, prophesy the fall of culture and accept the ignorabimus. For us there is no ignorabimus, and in my opinion none whatever in natural science. In opposition to the foolish ignorabimus our slogan shall be Wir müssen wissen – wir werden wissen (*"We must know – we will know"*). - David Hilbert'
-    
-  projects:
-    title: Projects
-    output: true
-    description: 'A collection of projects showcasing my work in various fields, including web development, data analysis, and design.'
-

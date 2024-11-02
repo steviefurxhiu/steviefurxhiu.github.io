@@ -3,12 +3,12 @@ layout: page
 title: About
 ---
 
-Hello world! My name is Stevie and I am doing a PhD in physical chemistry at the University of Sydney. I previously studied undergrad (Chemistry) and Masters (Molecular Nano Science) at the University of Erlangen-Nuremberg.   
-I intend to make this blog a repertoire containing scientific ideas and methods. Topics will range from hard sciences to arts and philosophy. Feel free to reach out to me via email for inquiries.
+Hello world! My name is Stevie and I am doing a PhD in Physical Chemistry at the University of Sydney. I previously studied undergrad (Chemistry) and Masters (Molecular Nano Science) at the University of Erlangen-Nuremberg. My research lies in the fields of solid-state physics, nanoscience, chemistry, and photonics. Although I will discuss these topics in detail, I also plan to explore other fields where my expertise is less extensive.  
+I aim to make this blog a repertoire of scientific ideas and methods, covering a range of topics from the hard sciences to arts and philosophy. Feel free to reach out via email with any inquiries.
 
-<img src="https://imgur.com/pYJm4TD.jpg" alt="Alt text" width="800">  
+<img src="https://imgur.com/pYJm4TD.jpg" alt="Alt text" width="900">  
 
-#### List of Quotes (in random order):
+#### List of Quotes (in random order):   
 
 "We must not believe those, who today, with philosophical bearing and deliberative tone, prophesy the fall of culture and accept the ignorabimus. For us there is no ignorabimus, and in my opinion none whatever in natural science. In opposition to the foolish ignorabimus our slogan shall be Wir müssen wissen – wir werden wissen ('We must know – we will know')". - David Hilbert   
 

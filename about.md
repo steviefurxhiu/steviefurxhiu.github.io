@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Hello world! My name is Stevie and I am doing a PhD in Physical Chemistry at the University of Sydney. I previously studied undergrad (Chemistry) and Masters (Molecular Nano Science) at the University of Erlangen-Nuremberg. My research lies in the fields of solid-state physics, nanoscience, chemistry, and photonics. Although I will discuss these topics in detail, I also plan to explore other fields where my expertise is less extensive.  
+Hello there! My name is Stevie and I am doing a PhD in Physical Chemistry at the University of Sydney. I previously studied undergrad (Chemistry) and Masters (Molecular Nano Science) at the University of Erlangen-Nuremberg. My research lies in the fields of solid-state physics, nanoscience, chemistry, and photonics. Although I will discuss these topics in detail, I also plan to explore other fields where my expertise is less extensive.  
 I aim to make this blog a repertoire of scientific ideas and methods, covering a range of topics from the hard sciences to arts and philosophy. Feel free to reach out via email with any inquiries.
 
 <img src="https://imgur.com/pYJm4TD.jpg" alt="Alt text" width="900">  
@@ -22,7 +22,7 @@ He had a Tolstoy quotation on a wall in his office: "The only legitimate happine
 "Alas, poor Yorick! I knew him, Horatio: a fellow   
 of infinite jest, of most excellent fancy: he hath   
 borne me on his back a thousand times; and now, how   
-abhorred in my imagination it is!" - Hamlet, Shakespeare  
+abhorred in my imagination it is!" - Hamlet, Shakespeare    
 
 
 

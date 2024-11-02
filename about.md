@@ -19,6 +19,10 @@ I aim to make this blog a repertoire of scientific ideas and methods, covering a
 
 He had a Tolstoy quotation on a wall in his office: "The only legitimate happiness is honest hard work and the surmounting of obstacles". - Astronaut Frank Borman described by NASA Psychologist   
 
+"Alas, poor Yorick! I knew him, Horatio: a fellow   
+of infinite jest, of most excellent fancy: he hath   
+borne me on his back a thousand times; and now, how   
+abhorred in my imagination it is!" - Hamlet, Shakespeare  
 
 
 

@@ -21,5 +21,6 @@ Below, you can find a list of internships, summer schools and funding opportunit
 
 - [Machine Learning Summer Schools Database](http://mlss.cc/index.html)     
 - [Ellis MLS Cambridge](https://www.ellis.eng.cam.ac.uk/summer-school/)     
+- [Resources for learning ML](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
 
 

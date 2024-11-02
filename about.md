@@ -10,6 +10,7 @@ I aim to make this blog a repertoire of scientific ideas and methods, covering a
 
 #### List of Quotes (in random order):   
 
+    
 "We must not believe those, who today, with philosophical bearing and deliberative tone, prophesy the fall of culture and accept the ignorabimus. For us there is no ignorabimus, and in my opinion none whatever in natural science. In opposition to the foolish ignorabimus our slogan shall be Wir müssen wissen – wir werden wissen ('We must know – we will know')". - David Hilbert   
 
 "en tibi" inquit, "ut sentias quam vile corpus sit iis qui magnam gloriam vident" ("Watch", he is said to have declared, "so that you know how cheap the body is to men who have their eye on great glory") - Livius, Ad urbe condita, 2.12    

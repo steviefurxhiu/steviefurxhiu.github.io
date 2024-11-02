@@ -15,4 +15,11 @@ Below, you can find a list of internships, summer schools and funding opportunit
 #### Science schools (theory and hands on experiences)
 
 - [Photon school (for Masters and PhDs), Synchrotron radiation school](https://www.helmholtz-berlin.de/events/photonschool/index_en.html)  
-- [Neutron school (for Masters, PhDs and Postdocs), Neutron scattering school](https://www.fz-juelich.de/en/jcns/expertise/conferences-and-workshops/labcourse)  
+- [Neutron school (for Masters, PhDs and Postdocs), Neutron scattering school](https://www.fz-juelich.de/en/jcns/expertise/conferences-and-workshops/labcourse)
+
+#### Machine learning schools   
+
+- [Machine Learning Summer Schools Database](http://mlss.cc/index.html)     
+- [Ellis MLS Cambridge](https://www.ellis.eng.cam.ac.uk/summer-school/)     
+
+

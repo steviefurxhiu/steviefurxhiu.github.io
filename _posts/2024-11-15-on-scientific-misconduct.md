@@ -23,9 +23,9 @@ We generally consider the most of these individuals to not cheat by nature, ther
 The rest would be comprised of lovely people who generally would love to help and contribute for the goodness of science, whereas its opposite, 
 “evil people” would be more interested in their personal gains thus contributing negatively to science. 
 
-<img src="https://imgur.com/Gb4kQFu.jpg" alt="Alt text" width="800">     
+<img src="https://imgur.com/Gb4kQFu.jpg" alt="Alt text" width="900">     
 
-Reasons for cheating would vary ranging from personal fame to economic, but importantly the fraudsters would definitively know how and where to cheat. 
+Reasons for cheating can vary ranging from personal fame to economic, but importantly the fraudsters would definitively know how and where to cheat. 
 Below I will discuss two stories where fraudulent (or misunderstood) science was published. 
 The first example is an old story of how a scientist at Bells Lab tried to fake discovering a way to make molecular transistors, 
 the backbone of computers using materials that were though to not work. The second story is more recent and is about two professors 
@@ -60,7 +60,7 @@ which were later debunked as false. One of the most important factors was the ab
 For the LK-99 story this was easily done as the researchers provided crystallographic data like XRD which allowed many groups around the world 
 to synthesize the same compound (see image below). 
 
-<img src="https://imgur.com/DuI2rJT.jpg" alt="Alt text" width="800">     
+<img src="https://imgur.com/DuI2rJT.jpg" alt="Alt text" width="900">     
 
 Unfortunately, for the Schön story, this was not the case as his results could not be reproduced by his colleagues and external researchers. 
 In fact, the ability for others to reproduce the reported data is one of the most important factors when publishing in a scientific journal. 
@@ -71,7 +71,7 @@ In the case the data is falsified this might be more difficult to detect.
 Regarding Hendrick Schön, a committee of experts in these fields was selected to consult his works and find cases of fraud. 
 They were able to perform the so-called “second derivative test” for determining if the observed data was observed (see below). 
 
-<img src="https://imgur.com/UqiicVK.jpg" alt="Alt text" width="800">   
+<img src="https://imgur.com/UqiicVK.jpg" alt="Alt text" width="900">   
 
 The second derivative tests consist in conducting the derivative of an exponential distribution until getting a constant value distribution (e.g. for quadratic distribution => d^2/dx^2 (x^2) = 2). 
 In the case of Hendrick, the committee noticed an earie similarity in his data points at 50 K on the first derivative of the plotting data vs temperature. 
@@ -99,11 +99,10 @@ References
 Lee, Sukbae, Ji-Hoon Kim, and Young-Wan Kwon. "The first room-temperature ambient-pressure superconductor." arXiv preprint arXiv:2307.12008 (2023)
 Beasley, Malcolm R. "Report of the Investigation Committee on the possibility of Scientific Misconduct in the work of Hendrik Schon and Coauthors." Lucent Technol. 25 (2002): 1
 
-Below I would like to reccomend further materials for exploring this topic:
+Below you can find some reccomendations for further exploring this topic:
 
 - Book: "Corrupt Cultures, Cheating in Science and Society" by Roy Yorke Calne
-- Youtube Video: https://www.youtube.com/watch?v=nfDoml-Db64
-- [The man who almost faked his way to a Nobel Prize](https://www.youtube.com/watch?v=nfDoml-Db64)
-
+- Youtube Video: [The man who almost faked his way to a Nobel Prize](https://www.youtube.com/watch?v=nfDoml-Db64)
+- Ethics Guidelines [by American Scientific Society](https://www.aps.org/about/governance/policies-procedures/ethics) 
 
 

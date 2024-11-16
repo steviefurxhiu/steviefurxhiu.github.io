@@ -6,7 +6,7 @@ categories:
 feature_image: "https://0.gravatar.com/userimage/244506044/7491748ddcfec0168d99b19ad7d506ea?size=256"
 ---
 
-Previously, I discussed about the scientific method, introducing it together with a brief history of science. 
+Previously, I discussed about the scientific method, introducing it together with a very brief history of science. 
 This method for conducting research, which laid a more concise and absolute protocol on how to conduct science, requires factchecking for achieving its final approval status. 
 This process often occurs after such discoveries manage to get published in journals. 
 To speed and contribute to scientific progress, one would “blindly believe” everything that appears in scientific journals is true. 
@@ -17,13 +17,13 @@ Finally, I will discuss on how to avoid early excitement about scientific result
 
 #### Why do we cheat when doing science?
 
-There may be many reasons to why someone would cheat when doing science. 
+There can be many reasons to why someone would cheat when doing science. 
 If we consider that a general distribution holds for the scientists’ population, most of its bulk would be comprised of normal individuals. 
 We generally consider the most of these individuals to not cheat by nature, thereby greatly reducing the population of the rest of the scientists. 
 The rest would be comprised of lovely people who generally would love to help and contribute for the goodness of science, whereas its opposite, 
 “evil people” would be more interested in their personal gains thus contributing negatively to science. 
 
-<img src="https://i.imgur.com/A8PrGM4.jpg" alt="Alt text" width="800">     
+<img src="https://imgur.com/Gb4kQFu.jpg" alt="Alt text" width="800">     
 
 Reasons for cheating would vary ranging from personal fame to economic, but importantly the fraudsters would definitively know how and where to cheat. 
 Below I will discuss two stories where fraudulent (or misunderstood) science was published. 
@@ -60,7 +60,7 @@ which were later debunked as false. One of the most important factors was the ab
 For the LK-99 story this was easily done as the researchers provided crystallographic data like XRD which allowed many groups around the world 
 to synthesize the same compound (see image below). 
 
-<img src="https://i.imgur.com/A8PrGM4.jpg" alt="Alt text" width="800">     
+<img src="https://imgur.com/DuI2rJT.jpg" alt="Alt text" width="800">     
 
 Unfortunately, for the Schön story, this was not the case as his results could not be reproduced by his colleagues and external researchers. 
 In fact, the ability for others to reproduce the reported data is one of the most important factors when publishing in a scientific journal. 
@@ -71,7 +71,7 @@ In the case the data is falsified this might be more difficult to detect.
 Regarding Hendrick Schön, a committee of experts in these fields was selected to consult his works and find cases of fraud. 
 They were able to perform the so-called “second derivative test” for determining if the observed data was observed (see below). 
 
-<img src="https://i.imgur.com/A8PrGM4.jpg" alt="Alt text" width="800">   
+<img src="https://imgur.com/UqiicVK.jpg" alt="Alt text" width="800">   
 
 The second derivative tests consist in conducting the derivative of an exponential distribution until getting a constant value distribution (e.g. for quadratic distribution => d^2/dx^2 (x^2) = 2). 
 In the case of Hendrick, the committee noticed an earie similarity in his data points at 50 K on the first derivative of the plotting data vs temperature. 
@@ -84,14 +84,14 @@ Furthermore, his PhD degree was also retracted from his Alma Matter, the Univers
 
 The importance of reproducing other’s result is crucial for the advancement of science. 
 There are many programs which allow generating datasets from images found in publications. 
-One famous program is WebPlotDigitizer(link) and it is able to generate a csv file based on pixel’s colours. 
+One famous program called [WebPlotDigitizer](https://automeris.io/) allows for generating a csv file based on data pixel’s colours. 
 I hope this short blog conveys the idea that cheating in science is counterproductive for both the cheater and 
 the community in general and doing so can ruin its own reputation and stain a research field. 
 Most importantly, delivering “justice” can also be effective in science and as seen in these cases excessive claims 
 which are not backed up and are not reproducible are usually dismissed in the long run. 
 
 In my upcoming blogs I will diverge more to other topics such as scientific concepts and techniques, some of which I am currently using for my own research.
-Below you can find the references of the paper regarding LK-99 and the misconduct review on Hndrick Schön. 
+Below you can find the references of the paper regarding LK-99 and the misconduct review on Hendrick Schön. 
 I have also suggested some videos on Youtube and further reading for those interested in 
 
 References
@@ -99,7 +99,11 @@ References
 Lee, Sukbae, Ji-Hoon Kim, and Young-Wan Kwon. "The first room-temperature ambient-pressure superconductor." arXiv preprint arXiv:2307.12008 (2023)
 Beasley, Malcolm R. "Report of the Investigation Committee on the possibility of Scientific Misconduct in the work of Hendrik Schon and Coauthors." Lucent Technol. 25 (2002): 1
 
+Below I would like to reccomend further materials for exploring this topic:
 
+- Book: "Corrupt Cultures, Cheating in Science and Society" by Roy Yorke Calne
+- Youtube Video: https://www.youtube.com/watch?v=nfDoml-Db64
+- [The man who almost faked his way to a Nobel Prize](https://www.youtube.com/watch?v=nfDoml-Db64)
 
 
 

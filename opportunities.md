@@ -14,8 +14,9 @@ Below, you can find a list of internships, summer schools and funding opportunit
 
 #### Science schools (theory and hands on experiences)
 
-- [Photon school (for Masters and PhDs), Synchrotron radiation school](https://www.helmholtz-berlin.de/events/photonschool/index_en.html)  
-- [Neutron school (for Masters, PhDs and Postdocs), Neutron scattering school](https://www.fz-juelich.de/en/jcns/expertise/conferences-and-workshops/labcourse)
+- [Photon school HZB (for Masters and PhDs), Synchrotron radiation school](https://www.helmholtz-berlin.de/events/photonschool/index_en.html)  
+- [Neutron school Forschunszentrum Jülich (for Masters, PhDs and Postdocs), Neutron scattering school](https://www.fz-juelich.de/en/jcns/expertise/conferences-and-workshops/labcourse)
+- [Summer school DESY (for Undergrads in Physics and related), Synchrotron school](https://summerstudents.desy.de/)
 
 #### Machine learning schools   
 

@@ -94,14 +94,14 @@ In my upcoming blogs I will diverge more to other topics such as scientific conc
 Below you can find the references of the paper regarding LK-99 and the misconduct review on Hendrick Schön. 
 I have also suggested some videos on Youtube and further reading for those interested in 
 
-References
+##### References
 
-Lee, Sukbae, Ji-Hoon Kim, and Young-Wan Kwon. "The first room-temperature ambient-pressure superconductor." arXiv preprint arXiv:2307.12008 (2023)
+Lee, Sukbae, Ji-Hoon Kim, and Young-Wan Kwon. "The first room-temperature ambient-pressure superconductor." arXiv preprint arXiv:2307.12008 (2023)    
 Beasley, Malcolm R. "Report of the Investigation Committee on the possibility of Scientific Misconduct in the work of Hendrik Schon and Coauthors." Lucent Technol. 25 (2002): 1
 
 Below you can find some reccomendations for further exploring this topic:
 
-- Book: "Corrupt Cultures, Cheating in Science and Society" by Roy Yorke Calne
+- Book: "Corrupt Cultures, Cheating in Science and Society" by Roy Yorke Calne  
 - Youtube Video: [The man who almost faked his way to a Nobel Prize](https://www.youtube.com/watch?v=nfDoml-Db64)
 - Ethics Guidelines [by American Scientific Society](https://www.aps.org/about/governance/policies-procedures/ethics) 
 

@@ -41,10 +41,10 @@ To better represent the shape of the spectrum, I have plotted the intervals from
 Here I have picked two points in the spectrum A (black) and B (red) and at these points the spectrum has been sliced horizontally and vertically (dotted lines) 
 which we can either refer by “time slice” and “probe slice”. Results are plotted in the right figure.  
 
-A time slice corresponds to a horizontal slice of the spectrum (in this case), where we plot ΔA per Probe wavelength at selected times (upper right). 
+- A time slice corresponds to a horizontal slice of the spectrum (in this case), where we plot ΔA per Probe wavelength at selected times (upper right). 
 This allows for observing how the shape of the TA spectrum changes with probe wavelength per selected time intervals. It is usually conducted to show 
 the evolution and shifts in wavelength of the TA.   
-A probe slice corresponds instead to a vertical slice of the spectrum (in this case), where we plot ΔA per Pump delay at selected probe wavelengths (upper right). 
+- A probe slice corresponds instead to a vertical slice of the spectrum (in this case), where we plot ΔA per Pump delay at selected probe wavelengths (upper right). 
 This allows for observing how the ΔA at a selected probe wavelength changes with time. 
 It is usually referred to as decay plot in the TA jargon and it is usually plotted to observe the time evolution upon photoexcitation (pump at t=0) 
 of a particular ΔA signal, namely, how charge carrier (electrons, holes, excitons etc) population change with time. In my example above I chose two 
@@ -84,14 +84,14 @@ even higher bands e.g. S2 (or more e.g. Sn). Unlike GSB and SE, which can be obs
 With this simplistic overview of the TA measurement and setup and its effects, it is important to clarify that there can be different types of setups to 
 accommodate for the different processes that wish to be investigated:
 
--Femtosecond TA (fs or 10^-15 s): used for probing ultrafast dynamics such as electron excitation, energy transfer, and coherent vibrational motion. 
+- Femtosecond TA (fs or 10^-15 s): used for probing ultrafast dynamics such as electron excitation, energy transfer, and coherent vibrational motion. 
 Photophysical and photochemical processes investigated: Excited-state relaxation, charge transfer, formation of excitons or polarons, studying systems 
 like semiconductors, organic photovoltaics, light-harvesting complexes, and photocatalysts.
 
--Picosecond TA (ps or 10^-12 s): used for probing intermediate timescales between ultrafast electronic processes and slower vibrational or structural dynamics. 
+- Picosecond TA (ps or 10^-12 s): used for probing intermediate timescales between ultrafast electronic processes and slower vibrational or structural dynamics. 
 Processes such as: intersystem crossing, vibrational cooling, or delayed fluorescence.
 
--Nanosecond TA (ns or 10^-9 s) capturing slower processes such as: phosphorescence, exciton recombination, triplet-triplet annihilation, 
+- Nanosecond TA (ns or 10^-9 s) capturing slower processes such as: phosphorescence, exciton recombination, triplet-triplet annihilation, 
 charge separation and recombination in donor-acceptor systems.  
 Suitable for biological samples or systems with long-lived excited states.
 

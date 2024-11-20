@@ -77,7 +77,7 @@ even higher bands e.g. S2 (or more e.g. Sn). Unlike GSB and SE, which can be obs
 
 #### TA measurement setup
 
-<img src="https://imgur.com/a/BMTHKM0.jpg" alt="Alt text" width="900">  
+<img src="https://imgur.com/ikWGl1x.jpg" alt="Alt text" width="900">  
 
 #### Types of TA measurements
 

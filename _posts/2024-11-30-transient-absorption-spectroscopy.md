@@ -118,10 +118,9 @@ Chirp correction
 
 <img src="https://imgur.com/xaYEoSd.jpg" alt="Alt text" width="900">   
 
+### Conclusions
 
-### Hyperspectral fitting
-
-Also talk about glotaran pyglotaran and how to make other examples of global analysis
+In short TA allows us to investigate etc etc
 
 #### Reference
 

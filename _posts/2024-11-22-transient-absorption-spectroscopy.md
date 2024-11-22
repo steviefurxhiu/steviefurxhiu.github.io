@@ -104,19 +104,18 @@ A TA setup can slightly vary depending on the kind of measurement and range that
 The core of this instrument is the funadamental laser beam, which is generated with a lasing medium (e.g. Yb:KGW). 
 This beam is then separated through a beam splitted into probe laser and pump laser...
 
-### How to conduct a good TA experiment and data analysis
-
-#### Beam allignment
-
-Talk about beam alignment fine tuning probe at high focus etc etc 
-
-#### Chirp correction and coherent artifacts (for fs-TA) 
+### Chirp correction and coherent artifacts (for fs-TA) 
 
 Im not sure if including this 
 Talk on how to make a good TA measurement proper beam alignment etc etc check with fine tuning
 Chirp correction 
 
 <img src="https://imgur.com/xaYEoSd.jpg" alt="Alt text" width="900">   
+
+### Hyperspectral fitting
+
+Most of the time TA data is too difficult to understand straightforwardly since its signal can be composed of many overlaying species.
+For this reason, scientists have developed hyperspectral fitting methods, which allows deriving 
 
 ### Conclusions
 

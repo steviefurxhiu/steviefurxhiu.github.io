@@ -128,9 +128,9 @@ Nowadays with the advent of AI, there is a stronger effort to implement LLM (Lar
 
 ### Conclusions    
 
-This blog aimed to introduce TA spectroscopy and a rudimentary basis of its workings and possibilities, though, the field itself is quite big and there are many 
-articles published every year with new and exciting breakthroughs.   
-In my next blog I will discuss Prof. Feynman's famous lecture "There's Plenty of Room at the Bottom" and how his speech has 
+This blog aimed to introduce TA spectroscopy and a rudimentary basis of its pronciples and measurement possibilities, though, the field itself is quite big and there are many 
+articles published every year claiming new exciting breakthroughs. TA is one of the   
+In my next blog I will discuss Prof. Richard Feynman's famous lecture "There's Plenty of Room at the Bottom" and how his vision of the nano sciences looks today.
 
 #### References  
 

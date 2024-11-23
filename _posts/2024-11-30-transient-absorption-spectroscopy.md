@@ -124,12 +124,13 @@ Besides this program, there are many similar models and methods such as e.g. [Py
 Hyperspectral fitting methods can also be created by scratch. In most of these methods, a distribution function (e.g. Gaussian or Lorentzian) can be used to 
 describe an absorption transition and in turn the difference between of after and before photoexcitation would correspond to the TA spectrum. From the changes of the
 distribution parameters like amplitude, width and peak position, we can obtain information on the photophysical processes occurring in the material.
-Nowadays with the advent of AI, there is a stronger effort to implement LLM (Large Language Models) for better predicting and deriving information on time dependent measurements. 
+Nowadays with the advent of AI, there is a stronger effort to implement LLM (Large Language Models) for better predicting and deriving information on time dependent measurements.    
 
 ### Conclusions    
 
-In short TA allows us to investigate etc etc  
-In my next blog I will discuss Prof. Feynman's famous lecture "There's Plenty of Room at the Bottom"
+This blog aimed to introduce TA spectroscopy and a rudimentary basis of its workings and possibilities, though, the field itself is quite big and there are many 
+articles published every year with new and exciting breakthroughs.   
+In my next blog I will discuss Prof. Feynman's famous lecture "There's Plenty of Room at the Bottom" and how his speech has 
 
 #### References  
 

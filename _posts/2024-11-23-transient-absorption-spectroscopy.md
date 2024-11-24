@@ -107,6 +107,7 @@ This beam is then separated through a beam splitted into probe laser and pump la
 
 <img src="https://imgur.com/ia7xzhh.jpg" alt="Alt text" width="900">     
 
+I have plotted above a TA spectrum before and after conducting chrip correction. The TA spectrum also presents some small 
 m not sure if including this 
 Talk on how to make a good TA measurement proper beam alignment etc etc check with fine tuning
 Chirp correction   

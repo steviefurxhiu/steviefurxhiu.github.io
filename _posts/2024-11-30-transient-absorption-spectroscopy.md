@@ -64,7 +64,7 @@ of a sample after the sample has already been photoexcited (pumped), which would
 This experimental method yields different effects which in turn can give rise to positive or negative ΔA. 
 The image below schematically depicts the origin of these effects by employing band diagrams.    
 
-<img src="https://imgur.com/RF45BWO.jpg" alt="Alt text" width="900">    
+<img src="https://imgur.com/f2vnAex.jpg" alt="Alt text" width="900">    
 
 - Ground State Bleach (GSB or photobleaching) is a negative ΔA signal (ΔA < 0) originating from the so-called Pauli blocking. 
 After photoexcitation (or pump) the population of charge carriers at the ground state (S0) cannot be further excited (by probe) at higher lying energy 
@@ -107,30 +107,33 @@ This beam is then separated through a beam splitted into probe laser and pump la
 
 <img src="https://imgur.com/ia7xzhh.jpg" alt="Alt text" width="900">     
 
-I have plotted above a TA spectrum before and after conducting chrip correction. The TA spectrum also presents some small 
-m not sure if including this 
-Talk on how to make a good TA measurement proper beam alignment etc etc check with fine tuning
-Chirp correction   
+I have plotted above a TA spectrum before and after conducting chrip correction. The TA spectrum also presents some small positive signals at 700 nm, 800 nm and 900 nm, which are also short lived if compared to the other signals. This signals are generally referred to coherent artifacts and together with chirp correction are important characteristics observed in fs-TA experiments:    
 
+- Chirp corresponds to the change of a signal with time and occurs due to difference in wavelength of light signal. It is also referred to as group velocity dispersion (GVD), which causes the various wavelengths to arrive at slightly different times at the sample or detector. The result is a "chirped" pulse, where shorter (blue) wavelengths arrive earlier to the detector than longer (red) wavelengths. In the image above the spectrum presents a clear difference between before and after pump, thus chirp correction is done using mathematical models for correcting time zero.   
+
+- Coherent artifact in transient absorption spectroscopy refers to an ultrafast, non-resonant signal that arises due to the coherent interaction of pump and probe pulses with the sample, rather than from the population dynamics of the excited states in the system. These artifacts are typically observed at or near time-zero, where the pump and probe pulses temporally overlap. 
+   
 ### Hyperspectral fitting   
 
-Most of the time TA data is too difficult to understand straightforwardly since its signal can be composed of many overlaying species.
+Sometimes TA data can be too difficult to understand straightforwardly since its signal can be composed of many overlaying species. The TA setup also does not allow for
+separating signals as it measures the changes in absorption along the whole probe region, which can overlay and convey superimposed signals (e.g. GB may be hidden by ESA of another species).  
 For this reason, scientists have developed hyperspectral fitting methods, which allows the derivation of additional information based on existing
 mathematical fitting models. To my knowledge, the most famous and easy program, which requires no programming knowledge is 
 [Glotaran](https://glotaran.org/demonstration.html). Glotaran stands for global and target analysis, meaning either fitting multiple time-resolved spectra
 simultaneously by assuming that the data can be described by a common set of kinetic components or decay rates, or targetting more specific spectro-temporal 
 contributions to known physical or chemical species and their transitions [2]. 
 Besides this program, there are many similar models and methods such as e.g. [Pyglotaran](https://github.com/glotaran/pyglotaran) and 
-[KiMoPack](https://pypi.org/project/KiMoPack/) which may require some programming knowledge but allow for more easy manipulation of parameters [3][4].  
-Hyperspectral fitting methods can also be created by scratch. In most of these methods, a distribution function (e.g. Gaussian or Lorentzian) can be used to 
+[KiMoPack](https://pypi.org/project/KiMoPack/) which may require some programming knowledge but allow for more easy manipulation of parameters [3][4].    
+
+Hyperspectral fitting methods can also be created from scratch. In most of these methods, a distribution function (e.g. Gaussian or Lorentzian) can be used to 
 describe an absorption transition and in turn the difference between of after and before photoexcitation would correspond to the TA spectrum. From the changes of the
-distribution parameters like amplitude, width and peak position, we can obtain information on the photophysical processes occurring in the material.
+distribution parameters like amplitude, width and peak position, we can obtain information on the photophysical processes occurring in the material.   
 Nowadays with the advent of AI, there is a stronger effort to implement LLM (Large Language Models) for better predicting and deriving information on time dependent measurements.    
 
 ### Conclusions    
 
-This blog aimed to introduce TA spectroscopy and a rudimentary basis of its pronciples and measurement possibilities, though, the field itself is quite big and there are many 
-articles published every year claiming new exciting breakthroughs. TA is one of the   
+This blog aimed to introduce TA spectroscopy with a rudimentary basis of its pronciples and measurement possibilities, though, the field itself is quite big and there are many 
+articles published every year claiming new exciting breakthroughs. TA is one kind of pump-probe spectroscopy and there are many more which depending on the energy range (e.g. in THz spectroscopy around 0.001–0.01 eV) allow for studying different systems.      
 In my next blog I will discuss Prof. Richard Feynman's famous lecture "There's Plenty of Room at the Bottom" and how his vision of the nano sciences looks today.
 
 #### References  

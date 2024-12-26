@@ -101,34 +101,34 @@ Suitable for biological samples or systems with long-lived excited states.
 
 Below you can find the example for a fs-TA, note that e.g. ns-TA might have slightly different setup but the overall principle should be the same.  
 
-a. Laser Source:
-- Lasing Medium: Ytterbium-doped Potassium Gadolinium Tungstate (e.g. Yb:KGW) generates a fundamental beam at 1030 nm.
-b. Beam Splitting:
-- Beam Splitter: Splits the laser into:
+- Laser Source:
+ - Lasing Medium: Ytterbium-doped Potassium Gadolinium Tungstate (e.g. Yb:KGW) generates a fundamental beam at 1030 nm.
+- Beam Splitting:
+ - Beam Splitter: Splits the laser into:
   - Pump Beam: About 10% directed to an Optical Parametric Amplifier (OPA).
   - Probe Beam: The remaining 90% used for white-light continuum generation.
-c. Optical Parametric Amplifier (OPA):
-- Purpose: Converts the 1030 nm wavelength to a tunable excitation wavelength across visible and near-IR.
+- Optical Parametric Amplifier (OPA):
+ - Purpose: Converts the 1030 nm wavelength to a tunable excitation wavelength across visible and near-IR.
 - Process:
-  - Pumping: Crystals in the OPA are excited by the laser output, interacting with the white-light continuum.
-  - Wavelength Selection: Adjusts laser and crystal angles to match group velocities for energy transfer.
-  - Tuning: Can operate in:
+    - Pumping: Crystals in the OPA are excited by the laser output, interacting with the white-light continuum.
+    - Wavelength Selection: Adjusts laser and crystal angles to match group velocities for energy transfer.
+ - Tuning: Can operate in:
     - Visible: 475 to 750 nm for the signal.
     - Near-IR: 1100 to 1600 nm for the signal.
-  - Selection: Uses polarizers or filters to select desired wavelengths.
-d. Pump Pulse Delivery:
-- Chopper: Blocks alternating pump shots for pump-on and pump-off differentiation.
-- Mirrors: Guide the pump pulses to the sample, with a polarizer to minimize scatter.
-f. Probe Beam Preparation:
-- White Light Generation: From the probe beam.
-- Delay Stage: Adjusts probe's path length for timing control up to 3 ns.
-g. Sample Interaction:
-- Angle: Both beams interact with the sample at an 8° angle.
-- Excitation: Pump pulse excites the sample.
-- Probing: Probe pulse, after a delay, interacts with the sample post-excitation.
-h. Detection:
-- Discarding Pump: The pump pulse is removed post-sample interaction.
-- Polarizer: Before the detector, blocks scattered light ensuring only the probe signal is measured.
+ - Selection: Uses polarizers or filters to select desired wavelengths.
+- Pump Pulse Delivery:
+ - Chopper: Blocks alternating pump shots for pump-on and pump-off differentiation.
+ - Mirrors: Guide the pump pulses to the sample, with a polarizer to minimize scatter.
+- Probe Beam Preparation:
+ - White Light Generation: From the probe beam.
+ - Delay Stage: Adjusts probe's path length for timing control up to 3 ns.
+- Sample Interaction:
+ - Angle: Both beams interact with the sample at an 8° angle.
+ - Excitation: Pump pulse excites the sample.
+ - Probing: Probe pulse, after a delay, interacts with the sample post-excitation.
+- Detection:
+ - Discarding Pump: The pump pulse is removed post-sample interaction.
+ - Polarizer: Before the detector, blocks scattered light ensuring only the probe signal is measured.
 
 This setup is critical for ultrafast spectroscopy, allowing for the study of how light at different wavelengths affects materials or biological samples over very short timescales.
 

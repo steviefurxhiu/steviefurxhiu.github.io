@@ -161,9 +161,9 @@ Nowadays with the advent of AI, there is a stronger effort to implement LLM (Lar
 
 ### Conclusions    
 
-This blog aimed to introduce TA spectroscopy with a rudimentary basis of its pronciples and measurement possibilities, though, the field itself is quite big and there are many 
-articles published every year claiming new exciting breakthroughs. TA is one kind of pump-probe spectroscopy and there are many more which depending on the energy range (e.g. in THz spectroscopy around 0.001–0.01 eV) allow for studying different systems.      
-In my next blog I will discuss Prof. Richard Feynman's famous lecture "There's Plenty of Room at the Bottom" and how his vision of the nano sciences looks today.
+This blog aimed to introduce TA spectroscopy with a focus on fs-TA and rudimentary basis of its pronciples and measurement possibilities, though, the field itself is quite big and many scientific breakthroughs using this instrument have recently been reported.  
+TA is also one kind of pump-probe spectroscopy and there are many more which depending on the energy range (e.g. in THz spectroscopy around 0.001–0.01 eV) allow for studying different systems. In future blogs I will also discuss on other pump-probe menthods.      
+In my next blog I will discuss about invisibility with a focus on visible light invisibility and how it can be attained.
 
 #### References  
 

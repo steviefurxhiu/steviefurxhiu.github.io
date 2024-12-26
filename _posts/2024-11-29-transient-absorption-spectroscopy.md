@@ -99,9 +99,36 @@ Suitable for biological samples or systems with long-lived excited states.
 
 <img src="https://imgur.com/ikWGl1x.jpg" alt="Alt text" width="800">    
 
-A TA setup can slightly vary depending on the kind of measurement and range that wish to be conducted. (check with thesis)
-The core of this instrument is the funadamental laser beam, which is generated with a lasing medium (e.g. Yb:KGW). 
-This beam is then separated through a beam splitted into probe laser and pump laser...   
+1. Laser Source:
+- Lasing Medium: Ytterbium-doped Potassium Gadolinium Tungstate (e.g. Yb:KGW) generates a fundamental beam at 1030 nm.
+2. Beam Splitting:
+- Beam Splitter: Splits the laser into:
+- - Pump Beam: About 10% directed to an Optical Parametric Amplifier (OPA).
+- - Probe Beam: The remaining 90% used for white-light continuum generation.
+3. Optical Parametric Amplifier (OPA):
+- Purpose: Converts the 1030 nm wavelength to a tunable excitation wavelength across visible and near-IR.
+- Process:
+- - Pumping: Crystals in the OPA are excited by the laser output, interacting with the white-light continuum.
+- - Wavelength Selection: Adjusts laser and crystal angles to match group velocities for energy transfer.
+- - Tuning: Can operate in:
+- - - Visible: 475 to 750 nm for the signal.
+- - - Near-IR: 1100 to 1600 nm for the signal.
+- - Selection: Uses polarizers or filters to select desired wavelengths.
+4. Pump Pulse Delivery:
+- Chopper: Blocks alternating pump shots for pump-on and pump-off differentiation.
+- Mirrors: Guide the pump pulses to the sample, with a polarizer to minimize scatter.
+5. Probe Beam Preparation:
+- White Light Generation: From the probe beam.
+- Delay Stage: Adjusts probe's path length for timing control up to 3 ns.
+6. Sample Interaction:
+- Angle: Both beams interact with the sample at an 8° angle.
+- Excitation: Pump pulse excites the sample.
+- Probing: Probe pulse, after a delay, interacts with the sample post-excitation.
+7. Detection:
+- Discarding Pump: The pump pulse is removed post-sample interaction.
+- Polarizer: Before the detector, blocks scattered light ensuring only the probe signal is measured.
+
+This setup is critical for ultrafast spectroscopy, allowing for the study of how light at different wavelengths affects materials or biological samples over very short timescales.
 
 ### Chirp correction and coherent artifacts (for fs-TA)    
 

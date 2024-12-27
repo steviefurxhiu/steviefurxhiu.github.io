@@ -95,42 +95,12 @@ Processes such as: intersystem crossing, vibrational cooling, or delayed fluores
 charge separation and recombination in donor-acceptor systems.  
 Suitable for biological samples or systems with long-lived excited states.   
 
-#### TA Setup   
+#### TA Setup      
 
+Below you can find the example for a fs-TA, note that e.g. ns-TA might have slightly different setup (no delay stage in this case) but the overall principle should be the same.    
 <img src="https://imgur.com/ikWGl1x.jpg" alt="Alt text" width="800">    
 
-Below you can find the example for a fs-TA, note that e.g. ns-TA might have slightly different setup but the overall principle should be the same.  
-
-- Laser Source:
- - Lasing Medium: Ytterbium-doped Potassium Gadolinium Tungstate (e.g. Yb:KGW) generates a fundamental beam at 1030 nm.
-- Beam Splitting:
- - Beam Splitter: Splits the laser into:
-  - Pump Beam: About 10% directed to an Optical Parametric Amplifier (OPA).
-  - Probe Beam: The remaining 90% used for white-light continuum generation.
-- Optical Parametric Amplifier (OPA):
- - Purpose: Converts the 1030 nm wavelength to a tunable excitation wavelength across visible and near-IR.
-- Process:
-    - Pumping: Crystals in the OPA are excited by the laser output, interacting with the white-light continuum.
-    - Wavelength Selection: Adjusts laser and crystal angles to match group velocities for energy transfer.
- - Tuning: Can operate in:
-    - Visible: 475 to 750 nm for the signal.
-    - Near-IR: 1100 to 1600 nm for the signal.
- - Selection: Uses polarizers or filters to select desired wavelengths.
-- Pump Pulse Delivery:
- - Chopper: Blocks alternating pump shots for pump-on and pump-off differentiation.
- - Mirrors: Guide the pump pulses to the sample, with a polarizer to minimize scatter.
-- Probe Beam Preparation:
- - White Light Generation: From the probe beam.
- - Delay Stage: Adjusts probe's path length for timing control up to 3 ns.
-- Sample Interaction:
- - Angle: Both beams interact with the sample at an 8° angle.
- - Excitation: Pump pulse excites the sample.
- - Probing: Probe pulse, after a delay, interacts with the sample post-excitation.
-- Detection:
- - Discarding Pump: The pump pulse is removed post-sample interaction.
- - Polarizer: Before the detector, blocks scattered light ensuring only the probe signal is measured.
-
-This setup is critical for ultrafast spectroscopy, allowing for the study of how light at different wavelengths affects materials or biological samples over very short timescales.
+The pump and probe laser pulses originate from the oscillator with a fundamental beam at 1030 nm. A beam splitter divides the laser light; about 10% forms the pump, which is directed to an optical parametric amplifier (OPA) to produce wavelength-tuneable narrow bandwidth pump pulses. The OPA adjusts the 1030 nm wavelength to the desired excitation wavelength, spanning visible and near-IR spectra. Crystals in the OPA are pumped by the amplified laser output, with the pump overlapping the white-light continuum in the crystal. The signal and idler wavelengths are generated based on the angle between the laser beam and the crystal, with the signal, having the shortest wavelength, selected for use. By varying the laser beam and crystal angle, the group velocity of the pump, signal, and idler beams can be synchronized, allowing energy conversion from the pump to the signal and idler beams over a longer distance. The sum of the signal and idler frequencies equals the pump beam frequency, allowing different pump wavelengths to access various energy regions. OPAs pumped at 400 nm operate in the visible (475 to 750 nm for the signal) and near-IR (1100 to 1600 nm for the signal) ranges. One of the signal idlers is blocked by a polarizer or filters to select the excitation wavelength. The OPA output is directed into a Helios chopper, which blocks every other pump shot to differentiate between pump-on and pump-off shots. Mirrors guide the pump pulses to the sample, where a polarizer eliminates scatter. The remaining 90% of the laser light, the probe, generates a wide bandwidth white light probe, which is routed through a physical delay stage with multiple telescoping lenses and mirrors. The delay stage, containing movable mirrors, adjusts the probe pathlength up to 3 ns. After the delay stage, the light passes through a polarizer and neutral density filter to reach the sample. The probe and pump pulses overlap on the sample at an 8° angle. Subsequently, the pump pulse is discarded, while the probe pulse passes through a polarizer to block scattered light before reaching the detector.
 
 ### Chirp correction and coherent artifacts (for fs-TA)    
 

@@ -3,7 +3,8 @@ layout: page
 title: Book List
 ---
 
-Below, I have listed some books I enjoyed reading. I have divided them based on their content:
+Below, I have listed some books I enjoyed reading. Most of these books were lying in my shelves so it was easy to list them but 
+I have divided them based on their content:
 
 #### Science, popular science and technology  
 
@@ -23,6 +24,8 @@ Below, I have listed some books I enjoyed reading. I have divided them based on 
 - _Your superstar brain_ by Kaja nordegen  
 - _What little I remember_ by Otto Frisch 
 - _Steve Jobs_ by Walter isaacson
+- _The selfish gene_ by Richard Dawkins
+- _Alex's Adventures in Numberland_ by Alex Bellos
 
 #### Economics, popular economics   
 
@@ -32,7 +35,15 @@ Below, I have listed some books I enjoyed reading. I have divided them based on 
 - _The black swan_ by Nassim n. Taleb
 - _Anti fragile_ by Nassim n. Taleb
 - _The bitcoin standard_ by Saifedean Ammous
-- _How to win friends and influence people_ by Dale Carnegie 
+- _How to win friends and influence people_ by Dale Carnegie
+- _Thinking, fast and slow_ by Daniel Kahneman
+- _Noise_ by Cass R. Sunstein, Daniel Kahneman, and Olivier Sibony
+- _Capitalism_ by Paul Bowls
+- _Freakonomics_ by Steven D. LevitT and Stephen J. Dubner
+- _Superfreakonomics_ by Steven D. LevitT and Stephen J. Dubner
+- _When to rob a bank_ by Steven D. LevitT and Stephen J. Dubner
+- _Think like a freak_ by Steven D. LevitT and Stephen J. Dubner
+  
 
 #### Philosophy, literature and history   
 
@@ -51,7 +62,18 @@ Below, I have listed some books I enjoyed reading. I have divided them based on 
 - _Homo deus_ by Yuval Harari
 - _21 lessons for the 21st century_ by Yuval Harari
 - _Essential Bukowski_ selected by Abel deBritto
-- _Freakonomics_ by Steven D. LevitT and Stephen J. Dubner
-- _Superfreakonomics_ by Steven D. LevitT and Stephen J. Dubner
-- _When to rob a bank_ by Steven D. LevitT and Stephen J. Dubner
-- _Think like a freak_ by Steven D. LevitT and Stephen J. Dubner 
+- _Sidddartha_ by Hermann Hesse
+- _The world of yesterday_ by Stephan Zweig
+- _War and peace_ by Leo Tolstoy
+- _The kingdom of god is within you_ by Leo Tolstoy
+- _Animal farm_ by George Orwell
+- _1984_ by George Orwell
+- _Thus spoke Zarathustra_ by Friedrich Nietzsche
+- _Ecce Homo_ by Friedrich Nietzsche
+- _Macbeth_ by Shakespear
+- _The little prince_ by Antoine de Saint-Exupéry
+- _Don Chiquiote_ by Cervantes
+- _The old man and the sea_ by Ernest Hemingway
+- _The myth of Sisyphus_ by Albert Camus
+- _The World as Will and Representation_ by Arthur Schopenhauer
+

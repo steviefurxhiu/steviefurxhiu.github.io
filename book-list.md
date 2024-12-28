@@ -8,7 +8,7 @@ I have divided them based on their content:
 
 #### Science, popular science and technology  
 
-- _Structures_ by J.E. gordon
+- _Structures_ by J.E. Gordon
 - _How to solve it_ by G.Polya
 - _A mind for numbers_ by Barbara Oakley PhD 
 - _Quantum mechanics the theoretical minimum_ by Leonard Susskind and Art Friedman 

@@ -17,6 +17,7 @@ Below, you can find a list of internships, summer schools and funding opportunit
 - [Photon school HZB (for Masters and PhDs), Synchrotron radiation school](https://www.helmholtz-berlin.de/events/photonschool/index_en.html)  
 - [Neutron school Forschunszentrum Jülich (for Masters, PhDs and Postdocs), Neutron scattering school](https://www.fz-juelich.de/en/jcns/expertise/conferences-and-workshops/labcourse)
 - [Photon/Particle Phys/Astrophysics school DESY (for Undergrads or Masters), Synchrotron radiation school](https://summerstudents.desy.de/)
+- [ISSP - International Summer Student Programme (for Undergrads or Masters), Synchrotron radiation school](https://www.helmholtz-berlin.de/jobskarriere/schule-und-studium/summer-schools/sommerstudierende/index_en.html)
 
 #### Machine learning schools   
 

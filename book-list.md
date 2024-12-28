@@ -77,4 +77,7 @@ I have divided them based on their content:
 - _The old man and the sea_ by Ernest Hemingway
 - _The myth of Sisyphus_ by Albert Camus
 - _The World as Will and Representation_ by Arthur Schopenhauer
+- _Broken April_ by Ismail Kadare
+- _The general of the dead army_ by Ismail Kadare
+- _The siege_ by Ismail Kadare
 

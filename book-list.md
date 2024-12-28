@@ -26,6 +26,7 @@ I have divided them based on their content:
 - _Steve Jobs_ by Walter isaacson
 - _The selfish gene_ by Richard Dawkins
 - _Alex's Adventures in Numberland_ by Alex Bellos
+- _Uncle Tungsten_ by Oliver Sacks
 
 #### Economics, popular economics   
 

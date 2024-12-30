@@ -27,6 +27,10 @@ I have divided them based on their content:
 - _The selfish gene_ by Richard Dawkins
 - _Alex's Adventures in Numberland_ by Alex Bellos
 - _Uncle Tungsten_ by Oliver Sacks
+- _Superintelligence_ by Nick Bostrom
+- _Introduction to Mathematical Philosophy_ by Bertrand Russell
+- _Introduction to Mathematical Thinking_ by Keith Devlin
+- _Introduction to logic and to the method of deductive sciences_ by Albert Tarski 
 
 #### Economics, popular economics   
 
@@ -51,6 +55,7 @@ I have divided them based on their content:
 - _Creative evolution_ by Henri Bergson
 - _The three Theban plays_ by Sophocles
 - _Ohne heute gäbe es morgen kein gestern (German)_ by Yves Bossart
+- _Briefe in die chinesiche Vergangenheit (German)_ by Herbert Rosendorfer
 - _From Solon to Socrates_ by Victor Ehrenberg
 - _Akhenaten's Egypt_ by Angela P. Thomas
 - _Elective affinities_ by Goethe
@@ -66,6 +71,7 @@ I have divided them based on their content:
 - _Sidddartha_ by Hermann Hesse
 - _The world of yesterday_ by Stephan Zweig
 - _War and peace_ by Leo Tolstoy
+- _Indiscreet jewels_ by Denis Diderot
 - _The kingdom of god is within you_ by Leo Tolstoy
 - _Animal farm_ by George Orwell
 - _1984_ by George Orwell
@@ -80,4 +86,5 @@ I have divided them based on their content:
 - _Broken April_ by Ismail Kadare
 - _The general of the dead army_ by Ismail Kadare
 - _The siege_ by Ismail Kadare
+- _The tin drum_ by Günther Grass
 

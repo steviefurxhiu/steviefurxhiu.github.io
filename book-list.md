@@ -76,6 +76,7 @@ I have divided them based on their content:
 - _Animal farm_ by George Orwell
 - _1984_ by George Orwell
 - _Thus spoke Zarathustra_ by Friedrich Nietzsche
+- _The birth of tragedy_ by Friedrich Nietzsche
 - _Ecce Homo_ by Friedrich Nietzsche
 - _Macbeth_ by Shakespear
 - _The little prince_ by Antoine de Saint-Exupéry

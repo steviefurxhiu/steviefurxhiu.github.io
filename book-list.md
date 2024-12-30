@@ -13,7 +13,8 @@ I have divided them based on their content:
 - _A mind for numbers_ by Barbara Oakley PhD 
 - _Quantum mechanics the theoretical minimum_ by Leonard Susskind and Art Friedman 
 - _Physics of the impossible_ by Michio Kaku 
-- _Physics of the future_ by Michio Kaku 
+- _Physics of the future_ by Michio Kaku
+- _Beyon Einstein_ by Michio Kaku
 - _Chaos_ by James gleick
 - _A beautiful question_ by Frank Wilczek
 - _Knowledge and wonder_ by Victor F. Weiskopf
@@ -30,7 +31,8 @@ I have divided them based on their content:
 - _Superintelligence_ by Nick Bostrom
 - _Introduction to Mathematical Philosophy_ by Bertrand Russell
 - _Introduction to Mathematical Thinking_ by Keith Devlin
-- _Introduction to logic and to the method of deductive sciences_ by Albert Tarski 
+- _Introduction to logic and to the method of deductive sciences_ by Albert Tarski
+- _Fermat's Last Theorem_ by Simon Singh
 
 #### Economics, popular economics   
 

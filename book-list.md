@@ -90,4 +90,5 @@ I have divided them based on their content:
 - _The general of the dead army_ by Ismail Kadare
 - _The siege_ by Ismail Kadare
 - _The tin drum_ by Günther Grass
+- _Talking to strangers_ by Malcolm Gladwell
 

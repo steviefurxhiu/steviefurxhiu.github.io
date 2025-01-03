@@ -6,8 +6,6 @@ categories:
 feature_image: "https://0.gravatar.com/userimage/244506044/7491748ddcfec0168d99b19ad7d506ea?size=256"
 ---
 
-# Optical-Pump Terahertz-Probe Spectroscopy
-
 Optical-pump terahertz-probe (THz) spectroscopy is a non-contact method used to determine the photoconductivity of free charges and excitons. One THz corresponds to a frequency of 101210 12  Hz (1 THz ≈ 4 meV) and lies between the microwave and infrared regions in the electromagnetic spectrum. In this study, THz spectroscopy was employed to measure transient changes in the electric field waveforms, with a time duration of a few picoseconds, induced by the excitation of a sample using an optical pump pulse.
 
 The THz conductivity setup utilizes a Mira Oscillator and a Legend HE-USP regenerative amplifier (provided by Coherent Inc.). Measurements were conducted by photoexciting thin films with pump pulses of 60 fs duration and probing photogenerated charge carriers and/or excitons using single-cycle THz pulses, generated in a nonlinear zinc telluride (ZnTe) crystal via optical rectification. The latter produces a THz waveform lasting slightly longer than 1 ps, defining the time resolution of the optical-pump terahertz-probe (OPTP) measurements.

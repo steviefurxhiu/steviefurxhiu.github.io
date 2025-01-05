@@ -8,6 +8,7 @@ I have divided them based on their content:
 
 #### Science, popular science and technology  
 
+- _Gödel's Proof_ by Ernest Nagel
 - _Structures_ by J.E. Gordon
 - _How to solve it_ by G.Polya
 - _A mind for numbers_ by Barbara Oakley PhD 
@@ -70,7 +71,7 @@ I have divided them based on their content:
 - _Homo deus_ by Yuval Harari
 - _21 lessons for the 21st century_ by Yuval Harari
 - _Essential Bukowski_ selected by Abel deBritto
-- _Sidddartha_ by Hermann Hesse
+- _Siddartha_ by Hermann Hesse
 - _The world of yesterday_ by Stephan Zweig
 - _War and peace_ by Leo Tolstoy
 - _Indiscreet jewels_ by Denis Diderot

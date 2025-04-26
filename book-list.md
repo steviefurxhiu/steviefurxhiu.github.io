@@ -3,8 +3,8 @@ layout: page
 title: Book List
 ---
 
-Below, I have listed some books I enjoyed reading. Most of these books were lying in my shelves so it was easy to list them but 
-I have divided them based on their content:
+Below, I have listed some of books I have enjoyed reading 
+and have inspired me. I have divided them based on their content and the order is random:
 
 #### Science, popular science and technology  
 
@@ -34,6 +34,8 @@ I have divided them based on their content:
 - _Introduction to Mathematical Thinking_ by Keith Devlin
 - _Introduction to logic and to the method of deductive sciences_ by Albert Tarski
 - _Fermat's Last Theorem_ by Simon Singh
+- _Catching the Light_ by Arthur Zajon
+- _The God particle_ by Leon Lederman
 
 #### Economics, popular economics   
 
@@ -53,14 +55,13 @@ I have divided them based on their content:
 - _Think like a freak_ by Steven D. LevitT and Stephen J. Dubner
   
 
-#### Philosophy, literature and history   
+#### Philosophy, literature, history and psychology   
 
 - _Creative evolution_ by Henri Bergson
 - _The three Theban plays_ by Sophocles
 - _Ohne heute gäbe es morgen kein gestern (German)_ by Yves Bossart
 - _Briefe in die chinesiche Vergangenheit (German)_ by Herbert Rosendorfer
 - _From Solon to Socrates_ by Victor Ehrenberg
-- _Akhenaten's Egypt_ by Angela P. Thomas
 - _Elective affinities_ by Goethe
 - _The Odyssey_ by Homer
 - _The Iliad_ by Homer
@@ -79,17 +80,6 @@ I have divided them based on their content:
 - _Animal farm_ by George Orwell
 - _1984_ by George Orwell
 - _Thus spoke Zarathustra_ by Friedrich Nietzsche
-- _The birth of tragedy_ by Friedrich Nietzsche
-- _Ecce Homo_ by Friedrich Nietzsche
-- _Macbeth_ by Shakespear
-- _The little prince_ by Antoine de Saint-Exupéry
-- _Don Chiquiote_ by Cervantes
-- _The old man and the sea_ by Ernest Hemingway
-- _The myth of Sisyphus_ by Albert Camus
-- _The World as Will and Representation_ by Arthur Schopenhauer
-- _Broken April_ by Ismail Kadare
-- _The general of the dead army_ by Ismail Kadare
-- _The siege_ by Ismail Kadare
 - _The tin drum_ by Günther Grass
 - _Talking to strangers_ by Malcolm Gladwell
 

@@ -42,4 +42,8 @@ and his famous Bloch equation is still used nowadays as the solution of the Schr
 
 
 
+reduced zone scheme look on google images and see file https://physics.stackexchange.com/questions/800302/periodic-zone-scheme-bloch-theorem-in-lattices
+
+
+
 
